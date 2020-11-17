@@ -4,8 +4,7 @@
 #define DATA_PIN 5
 #define CLOCK_PIN 13
 
-#define DATA_PIN 5
-#define CLOCK_PIN 13
+
 
 CRGB leds[NUM_LEDS];
 int num=0;
