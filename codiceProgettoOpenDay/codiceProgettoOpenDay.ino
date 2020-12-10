@@ -4,7 +4,7 @@
 #define NUM_LEDS 50 
 
 //indico il led centrale
-#define CENTER_LED 21
+#define CENTER_LED 24
 
 //indico il pin 
 #define DATA_PIN 5 
